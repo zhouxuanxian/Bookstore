@@ -1,0 +1,236 @@
+a{
+	text-decoration: none;
+	color: lightgoldenrodyellow;
+}
+hr{
+	background-color: lightgoldenrodyellow;
+	width: 2px;
+	height: 2px;
+}
+
+body{
+	background-color: black;
+}
+
+.concent{
+	
+	float: left;
+	width: 100%;
+	height: auto;
+    position: relative;
+    z-index: 0;
+    background-color: white;
+}
+
+.left{
+	width: 1000px;
+	height: 500px;
+	float: left;
+	
+}
+
+
+.left-img {
+	width: 250px;
+	height: 250px;
+	float: left;
+	margin: 20px;
+	border: 1px solid gainsboro;
+	
+}
+
+.left-img img{
+	width: 80%;
+	height: auto;
+	margin: 20px;
+}
+
+.left-details{
+	width: 650px;
+	height: 250px;
+	float: left;
+	border: 1px solid gainsboro;
+	margin: 20px;
+}
+
+.left-details h3{
+	display: inline;
+}
+
+.head{
+	float: left;
+    height: 64px;
+    position: relative;
+    z-index: 1;
+}
+
+.search{
+	margin-top: 15px;
+	margin-left: 200px;
+	margin-bottom: 2px;
+	width: 365px;
+	height: auto;
+	
+	float: left;
+}
+
+.user-info{
+	margin-bottom: 2px;
+	margin-left: 300px;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	background-color: lightgoldenrodyellow;
+	float: right;
+}
+
+.user-info img{
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+}
+
+#put {
+	
+	width: 300px;
+	height: 30px;
+	border: 1px solid cornflowerblue;
+}
+#submit{
+	width: 50px;
+	height: 30px;
+	font-size: medium;
+	background-color: black;
+	border: none;
+	color: lightgoldenrodyellow;
+}
+
+.head-nav{
+	float: left;
+	
+}
+
+.head-nav li{
+	display: inline-block;
+	float: left;
+	font-size: x-large;
+	margin-left: 10px;
+}
+
+
+.fen1{
+	
+	display:inline-block;
+	height: 30px;
+	overflow: hidden;
+	color: lightgoldenrodyellow;
+}
+
+.fen2 {
+	display: block;
+	width: auto;
+	height: auto;
+	background-color: black;
+	
+}
+.fen1:hover{
+	
+	height: auto;
+	width: auto;
+}
+
+.fen2 a{
+	margin: 10px;
+	display: block;
+	font-size: large;
+	
+}
+
+.left-seller{
+	width: 94%;
+	height: auto;
+	float: left;
+	border-top: 1px solid gainsboro;
+	margin: 20px;
+}
+
+.seller-t{
+	width: 150px;
+	height: 150px;
+	border: 1px solid gainsboro;
+	float: left;
+	margin-top: 20px;
+}
+
+.seller-t img{
+	width: 80%;
+	height: auto;
+	margin-top: 20px;
+	margin: 10px;
+}
+
+.seller-info{
+	width: 81%;
+	height: 150px;
+	border-bottom: 1px solid gainsboro;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+
+.guodu{
+	width: 100%;
+	height: 20px;
+	float: left;
+	background-color: lightgray;
+}
+
+.right{
+	width: 20%;
+	height: auto;
+	float: left;
+	
+	margin: 20px;
+}
+
+.right-like{
+	float: left;
+	width: 80%;
+	border: 1px solid gainsboro;
+}
+
+.like-head{
+	width: 100%;
+	border-bottom: 1px solid gainsboro;
+	
+}
+
+.like-v{
+	width: 100%;
+	height: 100px;
+	border-bottom: 1px solid gainsboro;
+}
+
+.v-img{
+	width: 100px;
+	height: 100px;
+	float: left;
+	
+}
+
+.v-c{
+	width: 100px;
+	height: 100%;
+	float: left;
+}
+
+.like-v img{
+	width: 80%;
+	height: auto;
+}
+
+.like-head h4{
+	margin: 10px;
+	margin-left: 70px;
+}
